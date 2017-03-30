@@ -1,1 +1,1 @@
-This WordPress Plugin adds some customization to Privatradio sites.
+This WordPress plugin adds some customization to Privatradio sites.
